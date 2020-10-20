@@ -1,4 +1,4 @@
-# Hactoberfest-2020
+# hacktoberfest
 # Star this Repo first
 
 # Hacktoberfest2020---its a very good project and get a free tshirt.
